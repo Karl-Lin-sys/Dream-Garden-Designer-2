@@ -1,0 +1,6 @@
+{
+  "name": "Dream Garden Designer",
+  "description": "Generate layouts and plant visuals based on your preferences to design your dream garden.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
